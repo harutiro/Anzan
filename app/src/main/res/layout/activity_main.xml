@@ -60,6 +60,7 @@
         android:fontFamily="casual"
         android:text="="
         android:textSize="48sp"
+        app:layout_constraintEnd_toStartOf="@id/inputText"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/number1Text" />
 
